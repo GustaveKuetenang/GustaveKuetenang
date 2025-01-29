@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">I have rich experience in React and NodeJS.</p>
 
 <p align="center">
-<strong>Dart | Javascript | React | PostgreSQL | NodeJS | NestJS</strong>
+<strong>TypeScript | Javascript | React | PostgreSQL | NodeJS | NestJS</strong>
 </p>
 
 ---
